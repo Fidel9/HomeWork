@@ -8,7 +8,7 @@ public class BitwiseOperations {
           int d = a & b; //
           int e = a ^ b; //
           int f = ~b; //
-        
+
         System.out.println("a =" + Integer.toBinaryString(a));
         // 101010
         System.out.println("b =" + Integer.toBinaryString(b));
